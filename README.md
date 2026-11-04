@@ -1,3 +1,3 @@
 # hello-world
-
-Hello! This is a short bio about myself :)
+This repository is for practicing the GitHub Flow
+I AM RUBEN
